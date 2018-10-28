@@ -1,0 +1,4 @@
+2018/10/24 19:38:26.676 [DEBUG] main (LoggerWithLog4J.java) - ** Debug message **
+2018/10/24 19:38:26.676 [ INFO] main (LoggerWithLog4J.java) - ** Info Message **
+2018/10/24 19:38:26.692 [ INFO] main (LoggerWithLog4J.java) - ** Info Message1 **
+2018/10/24 19:38:26.692 [FATAL] main (LoggerWithLog4J.java) - com.java.io.LoggerWithLog4J@69b0fd6f
