@@ -2,6 +2,7 @@ package com.java.designPatterns;
 
 import java.util.*;
 
+//This is a demonstration of Singleton pattern in java
 public class SingletonPattern {
 
 	private static final SingletonPattern INSTANCE // store one instance
